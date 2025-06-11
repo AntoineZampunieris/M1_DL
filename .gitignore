@@ -6,7 +6,15 @@ Bird_Species_CNN.ipynb
 test.py
 TestPics/*
 TestPics.zip
+<<<<<<< HEAD
 cnn_model_graph.png.png
 cnn_model_graph
 ProjectGanttChart.xlsx
+=======
+CNN_Bird_Species.ipynb
+CNN_Bird_Species_Camera.ipynb
+predicted_Collarde_Dove.jpg
+ProjectGanttChart.xlsx
+accuracy_loss_over_epochs.png
+>>>>>>> origin/main
 Report.docx
