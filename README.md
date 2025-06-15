@@ -73,39 +73,7 @@ Intégration d'un module audio pour la reconnaissance des chants d'oiseaux
    pip install -r requirements.txt
    ```
 
-3. Train the model (or skip if already trained):
-   ```bash
-   python train.py
-   ```
-
-4. Export the trained model:
-   ```bash
-   torch.save(model.state_dict(), 'model.pth')
-   ```
+3. Train the model (or skip if already trained)
 
 
-
-## Structure du projet 
-```
-bird-recognition-pi/
-├── dataset/
-│   └── (bird images per species)
-├── model/
-│   ├── cnn.py
-│   └── model.pth
-├── train.py
-├── recognize.py
-├── utils.py
-├── requirements.txt
-└── README.md
-```
-
----
-
-## Exemple 
-
-
-## 📜 License
-
-MIT License — see `LICENSE` file for details.
-```
+4. Export the trained model
